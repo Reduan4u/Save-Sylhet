@@ -2,32 +2,116 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-h1 {
-    font-weight: 1500px;
-}
-
-.h1 {
-    font-size: 70px;
-}
-
 .top-banner {
-    background-image: url("/Image/donation13.jpg");
+    background-image: url(./Image/donation13.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     color: white;
     height: 500px;
     text-align: center;
-    padding-top: 130px;
+    padding-top: 80px;
     margin: -10px;
-
-
 }
 
 .link-button {
     text-decoration: none;
     background-color: rgb(241, 108, 93);
-    padding: 5px 10px;
+    padding: 5px 25px;
     color: white;
     font-weight: 900;
-    border-radius: 5px;
+    border-radius: 10px;
     font-size: xx-large;
+    align-content: center;
+}
+
+.sec-part {
+    text-align: center;
+    font-size: x-large;
+}
+
+.container {
+    font-size: 8px;
+    text-align: center;
+}
+
+.taka {
+
+    display: inline-block;
+    padding: 10px 15px;
+    background: rgb(245, 242, 242);
+    margin: 15px;
+    border-radius: 5px;
+}
+
+.takaa {
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 15px;
+    border-radius: 5px;
+    background: rgb(255, 212, 211);
+    border: 1px;
+    border-style: solid;
+    border-color: crimson;
+}
+
+.link-button2 {
+    text-decoration: none;
+    background-color: rgb(241, 148, 137);
+    padding: 5px 25px;
+    color: white;
+    font-weight: 900;
+    border-radius: 10px;
+    font-size: xx-large;
+    align-content: center;
+}
+
+.amount {
+    color: rgb(163, 167, 167);
+    border: 0;
+}
+
+.line {
+    padding-left: 25%;
+    align-items: center;
+    width: 20%;
+}
+
+.third-part-text {
+    text-align: center;
+}
+
+.third-part-container {
+    display: inline-flex;
+    padding: 30px 120px;
+    margin: 20px;
+
+}
+
+.third-part-box-1 {
+    display: inline-block;
+    padding: 10px 15px;
+    background: rgb(200, 240, 234);
+    margin: 15px;
+    border-radius: 15px;
+}
+
+.third-part-box2 {
+    display: inline-block;
+    padding: 10px 15px;
+    background: rgb(243, 201, 242);
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.third-part-box3 {
+    display: inline-block;
+    padding: 10px 15px;
+    background: rgb(204, 244, 210);
+    margin: 15px;
+    border-radius: 15px;
+}
+
+.third-part-container h1 {
+
+    font-size: 110px;
+}
