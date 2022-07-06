@@ -2,6 +2,37 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+h1 {
+    font-weight: 1500px;
+}
+
+.h1 {
+    font-size: 70px;
+}
+
+h3 {
+    padding-top: -25px;
+}
+
 .top-banner {
     background-image: url("/Image/donation13.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: -10px;
+    color: white;
+    height: 500px;
+    text-align: center;
+    padding-top: 150px;
+    background-image: ;
+
+
 }
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(241, 108, 93);
+    padding: 5px 10px;
+    color: white;
+    font-weight: 900;
+    border-radius: 5px;
+    font-size: xx-large;
