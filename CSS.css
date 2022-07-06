@@ -115,3 +115,53 @@ body {
 
     font-size: 110px;
 }
+
+.fifth-part-text {
+    text-align: center;
+}
+
+.input {
+    text-align: center;
+    padding: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgb(242, 237, 197);
+    border-radius: 5px;
+
+}
+
+.subs {
+    background-color: red;
+    width: 110px;
+    height: 37px;
+    border: 0;
+    position: relative;
+    left: -5px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.mail {
+    width: 200px;
+    height: 35px;
+    border: 0;
+    background-color: rgb(213, 213, 213);
+    border-radius: 5px 0px 0px 5px;
+}
+
+
+.footer {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(194, 190, 189);
+    text-align: center;
+    background-color: rgb(21, 19, 19);
+    margin: -10px;
+
+
+}
+
+.thanks {
+    font-size: x-small;
+
+}
