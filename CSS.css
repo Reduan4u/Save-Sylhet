@@ -10,20 +10,15 @@ h1 {
     font-size: 70px;
 }
 
-h3 {
-    padding-top: -25px;
-}
-
 .top-banner {
     background-image: url("/Image/donation13.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
-    padding-top: -10px;
     color: white;
     height: 500px;
     text-align: center;
-    padding-top: 150px;
-    background-image: ;
+    padding-top: 130px;
+    margin: -10px;
 
 
 }
